@@ -24,8 +24,8 @@ Before you begin, ensure you have the following installed:
 
 <div style="display: flex; justify-content: space-around;">
     <img src="1.jpg" width="200" height="400" />
-    <img src="3.jpg" width="200" height="400" />
     <img src="2.jpg" width="200" height="400" />
+    <img src="3.jpg" width="200" height="400" />
   </div>
 
   1. Video Preview:(https://drive.google.com/file/d/1ke0P2uNfrhNsPZqice2VaAxPcJtyhajq/view?usp=sharing)
