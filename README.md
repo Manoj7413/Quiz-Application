@@ -28,5 +28,4 @@ Before you begin, ensure you have the following installed:
     <img src="2.jpg" width="200" height="400" />
   </div>
 
-  1. Video Preview:(https://drive.google.com/file/d/1XcoT5Dsj079Y1Xv07Kh1jP73VitGl2YE/view?usp=sharing)
-  2. Apk File :(https://drive.google.com/file/d/1axzuxKvxVQWHJSv6x50tYRniHbYieqVe/view?usp=sharing)
+  1. Video Preview:(https://drive.google.com/file/d/1ke0P2uNfrhNsPZqice2VaAxPcJtyhajq/view?usp=sharing)
