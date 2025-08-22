@@ -1,0 +1,12 @@
+{
+  "name": "Manoj Kumhar",
+  "title": "Mobile & Web Developer",
+  "location": "Jaipur, India",
+  "about": "I build Flutter apps and modern web UIs.",
+  "socials": {
+    "github": "https://github.com/<your-username>",
+    "linkedin": "https://www.linkedin.com/in/<your-handle>/",
+    "x": "https://x.com/<your-handle>"
+  },
+  "heroImage": "https://raw.githubusercontent.com/<user>/manoj-portfolio-data/main/images/hero.png"
+}
