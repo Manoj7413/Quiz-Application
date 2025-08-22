@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Movie App",
+    "slug": "movie-app",
+    "description": "A movie app with auto-playing trailers and suggestions.",
+    "tech": ["Flutter", "Dart", "REST"],
+    "image": "https://raw.githubusercontent.com/<user>/manoj-portfolio-data/main/images/movie-app.png",
+    "links": {
+      "repo": "https://github.com/<user>/movie-app",
+      "demo": "https://example.com/movie-app"
+    }
+  },
+  {
+    "name": "Recipe App",
+    "slug": "recipe-app",
+    "description": "Search recipes with smooth UI and categories.",
+    "tech": ["Flutter", "Firebase"],
+    "image": "https://raw.githubusercontent.com/<user>/manoj-portfolio-data/main/images/recipe-app.png",
+    "links": {
+      "repo": "https://github.com/<user>/recipe-app"
+    }
+  }
+]
