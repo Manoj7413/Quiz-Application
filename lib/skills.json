@@ -1,4 +1,4 @@
 {
-  "primary": ["Flutter", "Dart", "Next.js", "React", "TypeScript", "Java Script"],
+  "primary": ["Flutter", "Dart", "Next.js", "React", "TypeScript", "Java Script","Firebase", "REST APIs", "GraphQL basics", "Tailwind CSS", "CSS Brand"],
   "tools": ["Firebase", "REST APIs", "GraphQL basics", "Tailwind CSS", "CSS Brand"]
 }
